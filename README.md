@@ -1,4 +1,7 @@
+# I USE THIS TEMPLATE FOR NOTIFICATION SERVICE ON AWS
+
 # Codingly.io: Base Serverless Framework Template
+
 
 https://codingly.io
 
